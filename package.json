@@ -1,0 +1,11 @@
+{
+  "name": "suman-youtube",
+  "version": "1.0.0",
+  "description": "Made By Bijit",
+  "main": "myserve.js",
+  "scripts": {
+    "start": "node myserve.js"
+  },
+  "author": "Bijit",
+  "license": "ISC"
+}
